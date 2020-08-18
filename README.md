@@ -1,2 +1,2 @@
-# C31
-Angry birds game with trajectory smoke.
+# AngryBirdsStage3
+Stage 3 Angry Birds: Introducing Constraint
